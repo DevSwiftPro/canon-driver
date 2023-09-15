@@ -1,6 +1,6 @@
 Original source is in this site http://help.ubuntu.ru/wiki/canon_capt
 
-Installing most Canon LBP Printers Driver.
+Installing most Canon LBP Printers Driver for Linux.
 
 This repository is for backup purposes with some language translation.
 
